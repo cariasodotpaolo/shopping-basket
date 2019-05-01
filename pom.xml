@@ -162,7 +162,7 @@
             </resource>
         </resources>
         <filters>
-            <filter>src/main/resources/maven/profile-${build.profile.id}.properties</filter>
+            <filter>src/main/resources/application-${build.profile.id}.properties</filter>
         </filters>
     </build>
 
